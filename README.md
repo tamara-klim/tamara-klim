@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/y6wjIPKGVZMnfbdMeE/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/y6wjIPKGVZMnfbdMeE/giphy.gif" width="355"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/tamara-klimentovsky-715b5594/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,6 +12,13 @@
    </a>
 </div>
 
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+   <h1>
+  Hey there!
+  <img src="https://media.giphy.com/media/xUPGcfC1V8ntYvJsUU/giphy.gif" width="40px"/>
+</h1>
+  
+  
 <!--
 **tamara-klim/tamara-klim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
