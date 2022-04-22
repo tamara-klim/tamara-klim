@@ -13,10 +13,17 @@
 </div>
 
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-   <h1>
-  Hey there!
-  <img src="https://media.giphy.com/media/xUPGcfC1V8ntYvJsUU/giphy.gif" width="40px"/>
-</h1>
+ 
+  <h3>
+  HEY THERE!
+  <img src="https://media.giphy.com/media/xUPGcfC1V8ntYvJsUU/giphy.gif" width="30px"/>
+ </h3>
+  
+ 
+  
+
+  
+  
   
   
 <!--
